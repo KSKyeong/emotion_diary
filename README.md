@@ -1,2 +1,2 @@
-# emotion_diar
+# emotion_diary
 
