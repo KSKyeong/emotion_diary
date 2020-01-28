@@ -1,6 +1,6 @@
 # emotion_diary
 
-참고 : 
+참고 : <br>
 https://github.com/oarriaga/face_classification<br>
 https://darkpgmr.tistory.com/70<br>
 https://blog.naver.com/roboholic84/221629374217<br>
