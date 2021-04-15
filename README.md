@@ -29,7 +29,7 @@
 <img src="/images/로고.PNG" width="30%" height="30%" title="로고" alt="로고"></img>   
 
 
-
+<br><br>
 
 __개발 동기__
 
@@ -37,21 +37,21 @@ __개발 동기__
 
 
 
-
+<br><br>
 
 __Process design__
 
 > <img src="/images/프로세스디자인.PNG" width="80%" height="80%" title="정보구조" alt="정보구조"></img> 
 
 
-
+<br><br>
 
 __Information architecture__
 
 > <img src="/images/정보구조.PNG" width="80%" height="80%" title="정보구조" alt="정보구조"></img> 
 
 
-
+<br><br>
 
 __동작 구조__
 
