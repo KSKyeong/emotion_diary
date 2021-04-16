@@ -33,7 +33,7 @@
 
 __개발 동기__
 
-<img src="/images/개발동기.PNG" width="40%" height="40%" title="config2" alt="config2"></img>   
+<img src="/images/개발동기.PNG" width="80%" height="80%" title="config2" alt="config2"></img>   
 
 
 
