@@ -25,8 +25,8 @@
 ---------------
 ## 2. __프로젝트 내용__
 
-<img src="/images/메인이미지.PNG" width="40%" height="40%" title="메인이미지" alt="메인이미지"></img>   
-<img src="/images/로고.PNG" width="30%" height="30%" title="로고" alt="로고"></img>   
+<img src="/images/메인이미지.png" width="40%" height="40%" title="메인이미지" alt="메인이미지"></img>   
+<img src="/images/로고.png" width="30%" height="30%" title="로고" alt="로고"></img>   
 
 
 <br><br>
@@ -41,21 +41,21 @@ __개발 동기__
 
 __Process design__
 
-<img src="/images/프로세스디자인.PNG" width="80%" height="80%" title="정보구조" alt="정보구조"></img> 
+<img src="/images/프로세스디자인.png" width="80%" height="80%" title="정보구조" alt="정보구조"></img> 
 
 
 <br><br>
 
 __Information architecture__
 
-<img src="/images/정보구조.PNG" width="80%" height="80%" title="정보구조" alt="정보구조"></img> 
+<img src="/images/정보구조.png" width="80%" height="80%" title="정보구조" alt="정보구조"></img> 
 
 
 <br><br>
 
 __동작 구조__
 
-<img src="/images/프로세스구조.PNG" width="80%" height="80%" title="프로세스구조" alt="프로세스구조"></img> 
+<img src="/images/프로세스구조.png" width="80%" height="80%" title="프로세스구조" alt="프로세스구조"></img> 
 
 
 
